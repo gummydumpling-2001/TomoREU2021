@@ -1,3 +1,9 @@
+% Written by: Dr. James Nagy
+% Modified by: Mai Phuong Pham Huynh
+
+% This following code focuses on analyzing the difference between adding
+% constant and random perturbations into the angles values.
+
 % Let's set up a test problem that has "true" R values slightly 
 % perturbed from our constant guess for R. Some comments about the 
 % first few lines:
